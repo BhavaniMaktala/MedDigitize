@@ -146,9 +146,9 @@ node server.js
 
 ---
 
-## Author
+## 👥 Team
 
-**Bhavani Maktala**
+This project was developed collaboratively as part of a college group project.
 
 - GitHub: https://github.com/BhavaniMaktala
 - LinkedIn: www.linkedin.com/in/bhavani-maktala-a3042a2b8
