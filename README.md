@@ -84,7 +84,13 @@ git clone https://github.com/BhavaniMaktala/MedDigitize.git
 cd MedDigitize
 ```
 
-### 3. Install Flutter Dependencies
+### 3. Clean the Flutter Application
+
+```bash
+flutter clean
+```
+
+### 4. Install Flutter Dependencies
 
 ```bash
 flutter pub get
@@ -94,28 +100,6 @@ flutter pub get
 
 ```bash
 flutter run
-```
-
----
-
-## Backend Setup
-
-Navigate to the backend folder:
-
-```bash
-cd backend
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Start the backend server:
-
-```bash
-node server.js
 ```
 
 ---
